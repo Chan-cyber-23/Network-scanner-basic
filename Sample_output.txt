@@ -1,0 +1,4 @@
+Scanning network...
+[+] Host is up: 192.168.1.1
+[-] Host is down: 192.168.1.2
+[-] Host is down: 192.168.1.3
